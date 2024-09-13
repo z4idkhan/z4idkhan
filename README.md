@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @z4idkhan
 - 👀 I’m interested in coding, gaming and watching anime
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning Java
 - 📫 How to reach me 👇
-- My Instagram @z4idkhan_ (mostly I'm active there) 
+- My Instagram @z4idkhan______ (mostly I'm active there) 
 - ⚡ Fun fact: I'm Ambivert
 
 <!---
