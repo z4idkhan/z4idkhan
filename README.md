@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @z4idkhan
-- 👀 I’m interested in coding, gaming and watching anime
-- 🌱 I’m currently learning Java
-- 📫 How to reach me 👇
-- My Instagram @z4idkhan______ (mostly I'm active there) 
-- ⚡ Fun fact: I'm Ambivert
+👋 Hi, I’m @z4idkhan
+👀 Interests: Coding, gaming, and anime
+🌱 Currently learning: Java
+📫 Reach me on Instagram: @z4idkhan______ (mostly active there)
+⚡ Fun fact: I’m an ambiver
 
 <!---
 z4idkhan/z4idkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
